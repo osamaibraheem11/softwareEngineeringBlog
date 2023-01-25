@@ -6,3 +6,5 @@ description: "The language I am choosing to study and learn this semester is PHP
 Another reason I am excited to learn PHP is because the company that I work for has some legacy software that was built using PHP. It will be nice to be able to jump in and make updates to the software.
 "
 ---
+
+<p>{{ description }}</p>

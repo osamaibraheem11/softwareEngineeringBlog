@@ -7,4 +7,4 @@ Another reason I am excited to learn PHP is because the company that I work for 
 "
 ---
 
-<p>{{ description }}</p>
+<p>{{ post.description }}</p>

@@ -18,4 +18,4 @@ The course then moved into PHP and numbers, this was pretty much straightforward
 
 Finally, the last thing I learned so far was about PHP functions. Creating a function starts with the keyword "function" followed by your function name. Pretty straightforward compared to other languages!
 
-All the code I created can be found here
+All the code I created can be found here https://github.com/osamaibraheem11/softwareEngineeringBlog/blob/main/codeExamples/startingOut.php. Now that I have learned the syntax, I plan on moving on to running PHP files on my system and reading and writing files!

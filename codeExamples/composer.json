@@ -1,0 +1,7 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^7.0",
+        "symfony/http-client": "^6.2",
+        "pear/http_request2": "^2.5"
+    }
+}

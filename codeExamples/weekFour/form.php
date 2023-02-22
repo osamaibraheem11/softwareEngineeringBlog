@@ -12,7 +12,7 @@ echo '<title>My First PHP Script</title>';
 ?>
 <form action="/submitUrl.php" method="post">
   <label for="imgUrl">Img Url:</label><br>
-  <input type="text" name="imgUrl" id="imgUrl" placeholder="http Link">
+  <input type="text" name="imgUrl" id="imgUrl" placeholder="http Link" required>
   <input type="submit" value="Submit">
 </form>
 </body>
